@@ -5,9 +5,9 @@ import { Analytics } from '@vercel/analytics/next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
-  generator: 'v0.app',
+  title: 'Event Registration System',
+  description: 'A simple event registration system built with Next.js and Geist UI.',
+  generator: 'Next.js',
 }
 
 export default function RootLayout({
